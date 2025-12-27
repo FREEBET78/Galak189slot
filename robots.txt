@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://galak189ha.vercel.app/sitemap.xml
+Sitemap: https://galak189slot.vercel.app//sitemap.xml
