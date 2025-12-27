@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://galak189ha.vercel.app/sitemap.xml
